@@ -1,0 +1,25 @@
+#top-social-bar {
+    padding-left:50px;
+    padding-right:50px;
+    background-color: #45AFD4;
+    height: 56px;
+    color: white;
+
+    i {
+        padding-left:7px;
+        padding-right:7px;
+    }
+
+    a {
+        color:white;
+    }
+}
+
+.btn-donate {
+    border:none;
+    background-color:#D94966;
+    border-radius:0;
+    color:white;
+    text-transform: uppercase;
+    padding:5px 15px;
+}
